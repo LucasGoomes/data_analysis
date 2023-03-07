@@ -20,10 +20,14 @@
 A ideia inicial é armazenar meus estudos, algoritmos e visualizações que envolvam análise de dados, sejam eles desenvolvidos em pequenos projetos para fixar o conteúdo ou desenvolvidos durante cursos do assunto. Logo, é possível que algumas pastas ou algoritmos estajam "soltos" dentro do repositório, não seguindo nenhuma estrutura padrão de projetos.
 
 
-## O que foi desenvolvido até agora
+## Análises feitas até agora
 | Nome                |
 | :---:               |  
-| [Linear Regression](https://github.com/LucasGoomes/machine_learning/tree/main/linear_regression)   |
+| [PIP Per Capita](https://github.com/LucasGoomes/data_analysis/tree/main/PIP_per_capita)   |
+| [Finacial Market](https://github.com/LucasGoomes/data_analysis/tree/main/financial_market)   |
+| [PS4 Games Sales](https://github.com/LucasGoomes/data_analysis/tree/main/PS4_games_sales)   |
+| [Unicorn Companies](https://github.com/LucasGoomes/data_analysis/tree/main/unicorn_companies)   |
+| [Students Performance](https://github.com/LucasGoomes/data_analysis/tree/main/students_performance)   |
 
 
 
